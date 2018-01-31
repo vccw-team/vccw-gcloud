@@ -1,4 +1,4 @@
-# gcloud installer for VCCW
+# Google cloud SDK installer for VCCW
 
 It installs `gcloud` to the VCCW machine.
 
