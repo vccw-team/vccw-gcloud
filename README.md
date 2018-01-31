@@ -19,3 +19,10 @@ set -ex
 
 curl -L https://raw.githubusercontent.com/vccw-team/vccw-gcloud/master/install.sh | bash
 ```
+
+## What is installed
+
+* Google cloud SDK
+* Cloud SQL proxy
+
+https://cloud.google.com/php/tutorials/wordpress-app-engine-flexible
